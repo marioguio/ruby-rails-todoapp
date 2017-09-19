@@ -3,6 +3,3 @@
   - name: rspec
     service: web_codeship_example_ruby
     command: bin/ci rspec
-  - name: rubocop
-    service: web_codeship_example_ruby
-    command: rubocop
